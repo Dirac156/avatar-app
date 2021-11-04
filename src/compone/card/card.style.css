@@ -1,0 +1,54 @@
+.card-img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: .5rem;
+    background: #F5F5F5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-img img {
+    width:60%;
+    height: 60%;
+}
+
+.icon {
+    font-size: 18px !important;
+}
+
+.address-detail {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: .5rem;
+}
+
+.address-detail p {
+    margin-bottom: 0;
+}
+
+.address-detail .icon {
+    margin-right: .5rem;
+}
+
+.form {
+    padding: 1.5rem;
+}
+
+.form .form-box {
+    margin-bottom: 40px !important;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.form-box label {
+    margin-right: 2rem;
+}
+
+.form-box .input-field {
+    width: 250px;
+    padding: .1rem;
+    padding-left: .6rem;
+}
